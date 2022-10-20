@@ -1,0 +1,55 @@
+1666261064903	geckodriver	INFO	Listening on 127.0.0.1:56917
+1666261065243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56918" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofileFZ1b9G"
+2022-10-20 13:17:45.826 plugin-container[2749:311806443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:17:45.827 plugin-container[2749:311806443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666261065843	Marionette	INFO	Marionette enabled
+2022-10-20 13:17:45.867 plugin-container[2749:311806443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:17:45.867 plugin-container[2749:311806443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 13:17:45.868 plugin-container[2749:311806447] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:17:45.868 plugin-container[2749:311806447] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666261065979	Marionette	INFO	Listening on port 56946
+WebDriver BiDi listening on ws://localhost:56918
+Read port: 56946
+1666261066053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofileFZ1b9G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56918/devtools/browser/838cf86e-6cef-474f-adbb-3f8551e38a48
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1666013219, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1666013219, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1666261087869	Marionette	INFO	Stopped listening on port 56946
+1666261109623	geckodriver	INFO	Listening on 127.0.0.1:57211
+1666261110141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57212" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofileF3aCyO"
+2022-10-20 13:18:30.482 plugin-container[2789:311807637] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:18:30.482 plugin-container[2789:311807637] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 13:18:30.484 plugin-container[2789:311807637] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:18:30.484 plugin-container[2789:311807637] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 13:18:30.484 plugin-container[2789:311807644] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:18:30.484 plugin-container[2789:311807644] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666261110497	Marionette	INFO	Marionette enabled
+1666261110521	Marionette	INFO	Listening on port 57219
+WebDriver BiDi listening on ws://localhost:57212
+Read port: 57219
+1666261110633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofileF3aCyO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57212/devtools/browser/93cdc29c-4f47-47e6-a95a-7db428e8c9ad
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1666013219, line 6289: unreachable code after return statement
+1666261113064	Marionette	INFO	Stopped listening on port 57219
+1666262366712	geckodriver	INFO	Listening on 127.0.0.1:62564
+1666262367251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62565" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofile16X6V9"
+2022-10-20 13:39:27.573 plugin-container[3061:311818830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:39:27.573 plugin-container[3061:311818830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666262367586	Marionette	INFO	Marionette enabled
+2022-10-20 13:39:27.605 plugin-container[3061:311818830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:39:27.605 plugin-container[3061:311818830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-20 13:39:27.605 plugin-container[3061:311818859] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-20 13:39:27.605 plugin-container[3061:311818859] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666262367726	Marionette	INFO	Listening on port 62577
+WebDriver BiDi listening on ws://localhost:62565
+Read port: 62577
+1666262367805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9k/x98mp7gj00j8n3ffqsrl4sgh0000gn/T/rust_mozprofile16X6V9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62565/devtools/browser/d98cf07c-3b01-4a18-9a3e-88278da54549
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1666262371298	Marionette	INFO	Stopped listening on port 62577
